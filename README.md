@@ -1,2 +1,3 @@
 # hello-world
 A graphics designer trying to learn coding skills for the internets.
+This Github thing sure looks interesting. Now if only I could start making websites right away...
